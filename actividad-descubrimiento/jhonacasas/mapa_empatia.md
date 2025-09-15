@@ -1,4 +1,4 @@
-# Plantilla de Mapa de Empatía
+# Mapa de Empatía
 **Rol:** Ciudadano de Bogotá que busca movilizarse de forma eficiente.
 
 ---
